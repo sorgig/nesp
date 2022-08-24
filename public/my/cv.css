@@ -1,0 +1,21 @@
+body {
+    background-color: darkseagreen;
+}
+.centered {
+    text-align: center;
+}
+#cage{
+    border:3px solid gray;
+    border-style: dashed;
+}
+.red {
+    background-color: red;
+    color: whitesmoke;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td, th {
+    border: 2px solid black;
+}
